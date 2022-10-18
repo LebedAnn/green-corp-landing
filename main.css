@@ -79,3 +79,6 @@ body {
   background-position: center;
   background-size: cover;
 }
+.form__container {
+  width: 550px;
+}
