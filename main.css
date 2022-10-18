@@ -83,6 +83,9 @@ body {
   width: 550px;
 }
 .form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #1D263A;
   color: #fff;
   padding-top: 115px; 
