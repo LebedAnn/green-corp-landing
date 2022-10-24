@@ -126,6 +126,8 @@ button {
   border: none;
 }
 .form select {
+  font-size: 18px;
+  color: #213053;
   height: 60px;
   padding-left: 0px;
   padding-bottom: 0px;
