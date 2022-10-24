@@ -142,7 +142,7 @@ input {
   outline: none;
 }
 
-.ease {
+.button {
   transition: background-color, 0.3s ease-in;
 }
 
