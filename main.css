@@ -141,3 +141,12 @@ select {
 input {
   outline: none;
 }
+
+.ease {
+  transition: background-color, 0.3s ease-in;
+}
+
+button:hover {
+  background-color: #f6980c;
+  box-shadow: 0 16px 36px rgba (246 152 12 / 20%);
+}
