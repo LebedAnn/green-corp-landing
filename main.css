@@ -161,3 +161,16 @@ footer {
   margin-top: 40px;
   opacity: 0.5;
 }
+.footer__group {
+  margin-right: 80px;
+}
+h3 {
+  font-size: 16px;
+  opacity: 0.7;
+  margin-bottom: 30px;
+}
+.footer__links a {
+display:flex;
+flex-direction: column;
+margin-bottom: 15px;
+}
