@@ -118,10 +118,7 @@ button {
   font-size: 18px;
   color: #213053;
   height: 60px;
-  padding-left: 0px;
-  padding-bottom: 0px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding: 0 20px 0 20 px;
   border-radius: 15px;
   border: none;
 }
@@ -129,10 +126,7 @@ button {
   font-size: 18px;
   color: #213053;
   height: 60px;
-  padding-left: 0px;
-  padding-bottom: 0px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding: 0 20px 0 20 px;
   border-radius: 15px;
   border: none;
 }
