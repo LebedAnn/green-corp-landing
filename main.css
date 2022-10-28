@@ -9,6 +9,7 @@ header {
   justify-content: space-between;
   align-items: center;
   position: sticky;
+  background: white;
   top: 0;
   z-index: 1;
 }
