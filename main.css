@@ -98,6 +98,10 @@ button {
   background-position: center;
   background-size: cover;
 }
+.features {
+  background-color: #fff;
+  padding: 150px 60px 150px 60px;
+}
 .form__container {
   width: 550px;
 }
@@ -253,6 +257,10 @@ footer h3 {
   .about__sun-image {
       width: 75px;
       height: 75px;
+  }
+  
+  .features {
+      padding: 50px 10px;  
   }
 
   .form {
