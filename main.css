@@ -330,16 +330,16 @@ button:hover {
   transition: background-color 0.3s ease-in;
 }
 footer {
-  font-weight:600;
-  font-size: 16px;
-  padding-top: 90px;
-  padding-bottom: 20px;
+  padding: 90px 20px;
+  font-size: 16px;  
+  font-weight: 600;
 }
+
 .footer__container {
   display: flex;
   justify-content: center;
-  
 }
+
 .footer__copyright {
   text-align: center;
   margin-top: 40px;
