@@ -473,6 +473,6 @@ footer h3 {
       padding: 50px 10px;
   }
 
-  .footer__container {
-      flex-direction: column;
+  /* .footer__container { */
+      /* flex-direction: column; */
   }
