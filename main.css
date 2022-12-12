@@ -338,6 +338,7 @@ footer {
 .footer__container {
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 .footer__copyright {
   text-align: center;
